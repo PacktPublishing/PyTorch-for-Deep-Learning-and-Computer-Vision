@@ -1,0 +1,4 @@
+2nd Optional Paper to Read
+The following paper outlines key topics behind style extraction, a concept that is introduced in the next video. Feel free to scan through it if you wish to learn about this phenomenal research!
+
+Texture Synthesis using Convolutional Neural Networks

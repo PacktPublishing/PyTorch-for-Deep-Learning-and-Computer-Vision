@@ -1,0 +1,12 @@
+Important Update - Bug fix
+Hello all,
+
+There's been an update to the code which applies to the MNIST section of this course. When normalizing the images, make sure to write transforms.Normalize((0.5,), (0.5,))  , rather than what we had earlier, transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5)) . Ultimately, this is done to ensure a single channel of (1, 28, 28), rather than (3, 28, 28). 
+
+
+
+Let me know if you have any questions about this.
+
+Best,
+
+Rayan and Team.

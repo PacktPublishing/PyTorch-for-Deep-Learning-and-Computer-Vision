@@ -1,0 +1,6 @@
+Note
+Throughout the PyTorch course, we will rarely work with NumPy arrays. However, I've included this NumPy crash course in case you ever get stuck on something that includes NumPy.
+
+Cheers,
+
+Rayan

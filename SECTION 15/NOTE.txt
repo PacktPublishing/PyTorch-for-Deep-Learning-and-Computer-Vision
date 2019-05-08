@@ -1,0 +1,2 @@
+Intro
+This section of the appendix is purely optional, as it simply explains the softmax function that was mentioned in the MNIST Image Recognition Section (Section 7).
